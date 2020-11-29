@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CURD_Core_Entity", "CURD_Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CURD_Framework_Entity_DBFirst", "CURD_Framework_Entity_DBFirst\CURD_Framework_Entity_DBFirst.csproj", "{2E4B3356-8A50-4AD2-8007-40D2FBE6D5E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CURD_Core_Entity_DBFirst", "CURD_Core_Entity_DBFirst\CURD_Core_Entity_DBFirst.csproj", "{DE1EBFAE-C923-43C2-BC2C-121C12E14B99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2E4B3356-8A50-4AD2-8007-40D2FBE6D5E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E4B3356-8A50-4AD2-8007-40D2FBE6D5E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E4B3356-8A50-4AD2-8007-40D2FBE6D5E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE1EBFAE-C923-43C2-BC2C-121C12E14B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1EBFAE-C923-43C2-BC2C-121C12E14B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1EBFAE-C923-43C2-BC2C-121C12E14B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1EBFAE-C923-43C2-BC2C-121C12E14B99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

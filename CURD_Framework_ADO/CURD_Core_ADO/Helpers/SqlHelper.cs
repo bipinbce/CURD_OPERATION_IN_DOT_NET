@@ -9,7 +9,7 @@ namespace CURD_Core_ADO.Helpers
 {
     public static class SqlHelper
     {
-        static string ConnectionString = "data source =DESKTOP-8A8TA50;Initial Catalog = POC_DB; User ID = sa; Password=Mssqlserver@8083;Integrated Security = true; MultipleActiveResultSets=True";
+        static string ConnectionString = "data source =.;Initial Catalog = POC_DB; User ID = sa; Password=*******;Integrated Security = true; MultipleActiveResultSets=True";
         public static DataTable ExecuteQuery(string query, SqlParameter[] sqlParameters)
         {
             var dataTable = new DataTable();
